@@ -13,6 +13,7 @@
 		A3950BC22625394800AD929F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3950BC12625394800AD929F /* Preview Assets.xcassets */; };
 		A3950BCB262539D300AD929F /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3950BCA262539D300AD929F /* CircleImage.swift */; };
 		A3950BCE26253A3800AD929F /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3950BCD26253A3800AD929F /* MapView.swift */; };
+		A3950BD126253CE900AD929F /* readme.md in Resources */ = {isa = PBXBuildFile; fileRef = A3950BD026253CE900AD929F /* readme.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A3950BC32625394800AD929F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A3950BCA262539D300AD929F /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		A3950BCD26253A3800AD929F /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		A3950BD026253CE900AD929F /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 		A3950BAE2625394700AD929F = {
 			isa = PBXGroup;
 			children = (
+				A3950BD026253CE900AD929F /* readme.md */,
 				A3950BB92625394700AD929F /* BuildingListsAndNavigation */,
 				A3950BB82625394700AD929F /* Products */,
 			);
@@ -133,6 +136,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A3950BC22625394800AD929F /* Preview Assets.xcassets in Resources */,
+				A3950BD126253CE900AD929F /* readme.md in Resources */,
 				A3950BBF2625394800AD929F /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
